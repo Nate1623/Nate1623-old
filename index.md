@@ -1,5 +1,5 @@
 
 title: Home
-layout:home
+layout: home
 
 this is the home page
