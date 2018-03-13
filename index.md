@@ -1,9 +1,6 @@
 ---
 title: My python project
+layout:
 ---
 
----
-layout
----
-
-this is the home page
+Here is my second project on Python, the fortune teller.
